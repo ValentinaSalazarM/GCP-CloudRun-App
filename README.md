@@ -1,2 +1,2 @@
-# GCP-CloudRun-App2
+# GCP-CloudRun-App
 Laboratorio de Google Cloud Platform.
